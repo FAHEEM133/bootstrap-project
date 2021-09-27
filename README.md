@@ -1,2 +1,2 @@
 # BOOTSTRAP PROJECT
-this is my first project posted in Bootstrap 4
+this is my first project using Bootstrap 4
